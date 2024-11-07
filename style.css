@@ -34,7 +34,8 @@
 			display: flex;
 
 			& .formValue {
-				width: 1.5rem;
+				min-width: 1.5rem;
+				width: fit-content;
 				text-align: center;
 			}
 
